@@ -1,0 +1,26 @@
+[
+    {
+        "sourceAccountPassphrase": "YOUR_PRIVATE_KEY",
+        "destinationAccount": "DESTINATION_PUBLIC_KEY_1",
+        "asset": "Pi",
+        "assetIssuer": "",
+        "transferAmt": "10",
+        "memo": "First payment"
+    },
+    {
+        "sourceAccountPassphrase": "YOUR_PRIVATE_KEY",
+        "destinationAccount": "DESTINATION_PUBLIC_KEY_2",
+        "asset": "Pi",
+        "assetIssuer": "",
+        "transferAmt": "5",
+        "memo": "Second payment"
+    },
+    {
+        "sourceAccountPassphrase": "YOUR_PRIVATE_KEY",
+        "destinationAccount": "DESTINATION_PUBLIC_KEY_3",
+        "asset": "Pi",
+        "assetIssuer": "",
+        "transferAmt": "20",
+        "memo": "Third payment"
+    }
+]
